@@ -9,7 +9,7 @@
 <hr>
 
 <h2><b>Instructions:</b></h2>
-<p>For this assignment, you will be using the attached dataset. This is a pared-down dataset from the <b>Center for Disease Control and Prevention (CDC)</b>, which is collected by conducting their annual telephone survey to gather the status of U.S. residents. There is also a <b>data dictionary</b> file provided that will offer more information about the data: <i>module4_assignment_data_dictionary.xlsx</i>.</p>
+<p>For this assignment, you will be using the attached dataset. This is a pared-down dataset from the <b>Center for Disease Control and Prevention (CDC)</b>, which is collected by conducting their annual telephone survey to gather the status of U.S. residents. There is also a <b>data dictionary</b> file provided that will offer more information about the data: <i>module5_assignment_data_dictionary.xlsx</i>.</p>
 
 <h3><b>Data Exploration:</b></h3>
 <ul>
