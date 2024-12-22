@@ -8,7 +8,7 @@
 
 <h1><b>Data Science Fellowship Assignments</b></h1>
 
-<p>Welcome to the repository for the <b>Data Science Fellowship</b> at <b>Berjma on Beck</b>. This repository contains a series of assignments and projects that were completed as part of the fellowship program. The assignments are designed to help develop and refine skills in data science, including data exploration, visualization, curation, feature engineering, and machine learning.</p>
+<p>Welcome to the repository for the <b>Data Science Fellowship</b> at <b>America on Tech</b>. This repository contains a series of assignments and projects that were completed as part of the fellowship program. The assignments are designed to help develop and refine skills in data science, including data exploration, visualization, curation, feature engineering, and machine learning.</p>
 
 <hr>
 
@@ -53,7 +53,7 @@
 </ul>
 
 <h2><b>Conclusion</b></h2>
-<p>These assignments were a critical part of the Data Science Fellowship at <b>Berjma on Beck</b> and helped to enhance the skills required for real-world data science applications. Feel free to explore the code, replicate the steps, and learn from the examples provided.</p>
+<p>These assignments were a critical part of the Data Science Fellowship at <b>America on Tech</b> and helped to enhance the skills required for real-world data science applications. Feel free to explore the code, replicate the steps, and learn from the examples provided.</p>
 
 </body>
 </html>
