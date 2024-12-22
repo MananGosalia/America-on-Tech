@@ -19,10 +19,10 @@
 <p>Each assignment in this repository is tied to a specific aspect of the data science process and includes code, explanations, and visualizations where applicable. Below is an overview of the assignments included in this repository:</p>
 
 <ul>
-    <li><b>Building an Unsupervised Learning Model</b> - Objective: Build a K-Means clustering model to group similar shoppers together using a dataset about shoppers’ demographics and spending behavior.</li>
-    <li><b>Feature Engineering on a Dataset</b> - Objective: Apply feature engineering techniques to prepare raw data for machine learning. This includes log transformations, encoding categorical variables, and PCA.</li>
     <li><b>Data Curation and SQL Queries</b> - Objective: Curate and transform data from two CSV datasets. This includes handling missing data, removing outliers, and performing SQL queries to extract useful insights.</li>
+    <li><b>Feature Engineering on a Dataset</b> - Objective: Apply feature engineering techniques to prepare raw data for machine learning. This includes log transformations, encoding categorical variables, and PCA.</li>
     <li><b>Building a Supervised Learning Model</b> - Objective: Develop a supervised learning model (e.g., Logistic Regression or Random Forest) to predict student admission decisions based on various features.</li>
+    <li><b>Building an Unsupervised Learning Model</b> - Objective: Build a K-Means clustering model to group similar shoppers together using a dataset about shoppers’ demographics and spending behavior.</li>
     <li><b>Data Exploration and Data Visualization</b> - Objective: Explore and visualize a dataset on health statistics using various methods such as histograms, bar charts, and scatter plots.</li>
     <li><b>Build an Ensemble Model and Hyperparameterization</b> - Objective: Build a Gradient Boosting model using the XGBoost library, perform hyperparameter tuning, and evaluate model performance.</li>
     <li><b>Final Data Science Project (Student Entrepreneur Dataset)</b> - Objective: Apply all skills learned in the fellowship to build a predictive model using the Student Entrepreneur dataset. This project involves data exploration, curation, feature engineering, and model training.</li>
