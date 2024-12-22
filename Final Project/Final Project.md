@@ -22,28 +22,28 @@
     <li>Model training</li>
 </ul>
 
-<h3><b>Data Exploration and Data Visualization (Module 4):</b></h3>
+<h3><b>Data Exploration and Data Visualization:</b></h3>
 <ul>
     <li>Take the time to complete data exploration on the data, including finding the <b>standard deviation</b> and <b>variance</b> for numerical features. Remember, these should be continuous features.</li>
     <li>Complete all <b>data visualizations</b> to learn about the features.</li>
     <li>Review the <b>distribution</b>, <b>skewness</b>, and <b>shape</b> of the features.</li>
 </ul>
 
-<h3><b>Data Curation (Module 3):</b></h3>
+<h3><b>Data Curation:</b></h3>
 <ul>
     <li>Identify any <b>outliers</b>, determine how you will deal with them, and document the method you used for outlier handling.</li>
     <li>Make sure to handle all <b>missing data</b>.</li>
     <li><b>Dummy code</b> all categorical features as discussed during the course.</li>
 </ul>
 
-<h3><b>Feature Engineering (Module 7):</b></h3>
+<h3><b>Feature Engineering:</b></h3>
 <ul>
     <li>Complete any <b>transformations</b> that need to be applied to the data. Examine the data to determine which columns need a <b>log transformation</b>.</li>
     <li>Complete <b>dummy coding</b> for any remaining categorical features.</li>
     <li><b>Optional:</b> Complete <b>Principal Component Analysis</b> (PCA) on the dataset.</li>
 </ul>
 
-<h3><b>Machine Learning Model (Module 5, Module 8, Module 9):</b></h3>
+<h3><b>Machine Learning Model:</b></h3>
 <ul>
     <li><b>Build and train a supervised learning model</b>. This can be any supervised learning model, including an ensemble model or deep learning model.</li>
     <li>Review the use cases for <b>supervised learning</b> and <b>unsupervised learning</b> to select the appropriate model for the project.</li>
